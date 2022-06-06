@@ -1,4 +1,4 @@
-# Country-capital-api 
+# Country-Capital-API 
 This API provides means of retrieving the name of country by taking the capital city name as the input.
 
 # Pre-requisites
@@ -37,7 +37,7 @@ Once installation is done, verify the python version.
 ```
 $ python --version
 ```
-## Create An Environment
+## Create an Environment
 Create a project folder and a `venv` folder within:
 ```
 $ mkdir myproject
@@ -60,3 +60,11 @@ $ pip install Flask
 ```
 Hurray!, You're all set. Flask is now installed.
 
+## Deployment of the Project
+Once you're done with coding and ready to see the project in action, run these commands:
+```
+$ flask run
+$ uvicorn main.py
+```
+## API Endpoints for this Project
+Microservice endpoint for this API available [here](https://example.com/country-capital/<query-params>).
