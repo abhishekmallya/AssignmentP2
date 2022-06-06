@@ -67,4 +67,4 @@ $ flask run
 $ uvicorn main.py
 ```
 ## API Endpoints for this Project
-Microservice endpoint for this API available [here](https://example.com/country-capital/<query-params>).
+Microservice endpoint for this API available [here](https://example.com/country-capital/<query-params>) for your reference.
